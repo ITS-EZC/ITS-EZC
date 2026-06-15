@@ -4,8 +4,8 @@
 
 **CS × Political Science @ Columbia University · AI, Law & Policy · Olympic Recurve Archer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-7F77DD?style=flat-square&logo=firefox)](https://emeric-chang-personal-website.vercel.app/#experience)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/emericzchang/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-7F77DD?style=flat-square&logo=firefox)](https://emeric-chang-personal-website.vercel.app/#experience)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/emericzchang/)
 [![Sundial](https://img.shields.io/badge/Columbia-Sundial-D85A30?style=flat-square)](https://columbiasundial.com)
 
 </div>
