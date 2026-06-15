@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ITS-EZC/ITS-EZC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Emeric 👋
 
-Here are some ideas to get you started:
+**CS × Political Science @ Columbia University '29 · AI, Law & Policy · Olympic Recurve Archer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-7F77DD?style=flat-square&logo=firefox)](https://emeric-chang-personal-website.vercel.app/#experience)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/emericzchang/)
+[![Sundial](https://img.shields.io/badge/Columbia-Sundial-D85A30?style=flat-square)](https://columbiasundial.com)
+
+</div>
+
+---
+
+## ⚡ What I'm up to
+
+- 🏛️ **Intern @ USAO for DC** — learning the in's and out's of federal practice
+- 💡 **Director of Tech** @ Columbia Policy Institute — leading tech-policy initiatives on campus
+- 🌐 **Co-director** of NANDAShapers (MIT Project NANDA) — youth activism on AI governance across borders
+- ✍️ Staff writer @ **Columbia Sundial** — covering campus culture (love, education, community)
+- 🎓 **4.00 GPA · Dean's List**, Columbia University
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Focus areas**
+![AI Policy](https://img.shields.io/badge/AI_Policy-7F77DD?style=flat-square)
+![Legal Tech](https://img.shields.io/badge/Legal_Tech-7F77DD?style=flat-square)
+![Constitutional Law](https://img.shields.io/badge/Constitutional_Law-7F77DD?style=flat-square)
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ITS-EZC&show_icons=true&hide_border=true&count_private=true&title_color=7F77DD&icon_color=1D9E75&text_color=888780&bg_color=00000000" alt="Emeric's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITS-EZC&layout=compact&hide_border=true&title_color=7F77DD&text_color=888780&bg_color=00000000" alt="Top languages" height="160" />
+</div>
+
+---
+
+## 🏹 Beyond the code
+
+> Nationally-ranked recurve archer · Paris Olympic Trials competitor · USA Archery coach certified
+>
+> Building at the intersection of technology and the rule of law.
+
+📍 Silicon Valley, New York City, Washington, D.C.
