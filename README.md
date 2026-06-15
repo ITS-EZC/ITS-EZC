@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-7F77DD?style=flat-square&logo=firefox)](https://emeric-chang-personal-website.vercel.app/#experience)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/emericzchang/)
-[![Sundial](https://img.shields.io/badge/Columbia-Sundial-D85A30?style=flat-square)](https://columbiasundial.com)
+[![Sundial](https://img.shields.io/badge/Columbia-Sundial-D85A30?style=flat-square)]([https://columbiasundial.com](https://www.sundial-cu.org/))
 
 </div>
 
@@ -15,7 +15,7 @@
 ## ⚡ What I'm up to
 
 - 🏛️ **Intern @ USAO for DC** — learning the in's and out's of federal practice
-- 💡 **Director of Tech** @ Columbia Policy Institute — leading tech-policy initiatives on campus
+- 💡 **Director of Tech** @ Columbia Policy Institute — leading tech-policy research initiatives on campus
 - 🌐 **Co-director** of NANDAShapers (MIT Project NANDA) — youth activism on AI governance across borders
 - ✍️ Staff writer @ **Columbia Sundial** — covering campus culture (love, education, community)
 - 🎓 **4.00 GPA · Dean's List**, Columbia University
