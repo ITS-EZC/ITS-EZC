@@ -17,7 +17,7 @@
 - 🏛️ **Intern @ USAO for DC** — learning the in's and out's of federal practice
 - 💡 **Director of Tech** @ Columbia Policy Institute — leading tech-policy research initiatives on campus
 - 🌐 **Co-director** of NANDAShapers (MIT Project NANDA) — youth activism on AI governance across borders
-- ✍️ Staff writer @ **Columbia Sundial** — covering campus culture (love, education, community)
+- ✍️ Staff editor @ **Columbia Sundial** — covering campus culture (love, education, community)
 - 🎓 **4.00 GPA · Dean's List**, Columbia University
 
 ---
