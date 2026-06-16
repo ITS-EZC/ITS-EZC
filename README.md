@@ -43,15 +43,6 @@
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITS-EZC&show_icons=true&hide_border=true&count_private=true&title_color=7F77DD&icon_color=1D9E75&text_color=888780&bg_color=00000000" alt="Emeric's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITS-EZC&layout=compact&hide_border=true&title_color=7F77DD&text_color=888780&bg_color=00000000" alt="Top languages" height="160" />
-</div>
-
----
-
 ## 🏹 Beyond the code
 
 > Nationally-ranked recurve archer · Paris Olympic Trials competitor · USA Archery coach certified
