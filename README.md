@@ -18,7 +18,7 @@
 - 💡 **Director of Tech** @ Columbia Policy Institute — leading tech-policy research initiatives on campus
 - 🌐 **Co-director** of NANDAShapers (MIT Project NANDA) — youth activism on AI governance across borders
 - ✍️ Staff editor @ **Columbia Sundial** — covering campus culture (love, education, community)
-- 🎓 **4.00 GPA · Dean's List**, Columbia University
+- 🚀 **Co-Founder/CTO of Polity AI**: Building civic intelligence for the public
 
 ---
 
