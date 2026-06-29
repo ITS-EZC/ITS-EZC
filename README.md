@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Profile Photo -->
-<img src="https://avatars.githubusercontent.com/u/ITS-EZC" width="120" style="border-radius:50%" alt="Emeric Chang"/>
-
 # Hey, I'm Emeric 👋
 
 <!-- Animated typing tagline -->
