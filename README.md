@@ -68,9 +68,9 @@
 ![Constitutional Law](https://img.shields.io/badge/Constitutional_Law-7F77DD?style=flat-square)
 
 **Currently learning**
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Mobile App Design](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-7F77DD?style=flat-square)
-![Constitutional AI](https://img.shields.io/badge/Constitutional_AI-7F77DD?style=flat-square)
+![Federal Practice](https://img.shields.io/badge/Constitutional_AI-7F77DD?style=flat-square)
 
 ---
 
@@ -96,8 +96,8 @@
 
 | | Title | Publication |
 |---|---|---|
-| 📰 | *Staff editor covering campus culture, love & community* | [Columbia Sundial](https://columbiasspectator.com) |
-| 📝 | *AI governance, policy & civic tech commentary* | [Substack](https://substack.com/@emericchang) |
+| 📰 | *Staff editor covering campus culture, love & community* | [Columbia Sundial](https://www.sundial-cu.org/) |
+| 📝 | *AI governance, policy & civic tech commentary* | [Substack](https://substack.com/@ezc18) |
 
 ---
 
@@ -111,7 +111,7 @@ Building at the intersection of technology and the rule of law.
 
 <div align="center">
 
-**Open to research collabs, internships, or just a good conversation about AI governance.**
-Feel free to reach out — [ezc2103@columbia.edu](mailto:ezc2103@columbia.edu)
+**Open to collabs, internships, or just a good conversation.**
+Feel free to reach out — [ezc2107@columbia.edu](mailto:ezc2107@columbia.edu)
 
 </div>
