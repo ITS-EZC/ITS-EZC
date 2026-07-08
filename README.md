@@ -27,7 +27,7 @@
 
 💡 **Director of Tech** @ Columbia Policy Institute — leading tech-policy research initiatives on campus
 
-🌐 **Co-director** of NANDAShapers (MIT Project NANDA) — youth activism on AI governance across borders
+🌐 **Co-director** of NANDAShapers (MIT Project NANDA, OpenGrowth Ventures, Foundation for Agentic Networks) — youth activism on AI governance across borders
 
 ✍️ Staff editor @ **Columbia Sundial** — covering campus culture (love, education, community)
 
@@ -90,7 +90,7 @@
 | | Title | Publication |
 |---|---|---|
 | 📰 | *Staff editor covering campus culture, love & community* | [Columbia Sundial](https://www.sundial-cu.org/) |
-| 📝 | *AI governance, policy & civic tech commentary* | [Substack](https://substack.com/@ezc18) |
+| 📝 | *Personal Blog* | [Substack](https://substack.com/@ezc18) |
 
 ---
 
