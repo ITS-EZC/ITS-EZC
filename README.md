@@ -5,7 +5,7 @@
 <!-- Animated typing tagline -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=CS+%C3%97+Political+Science+%40+Columbia;AI%2C+Law+%26+Policy+Researcher;Olympic+Recurve+Archer;Building+at+the+intersection+of+tech+%26+law)](https://git.io/typing-svg)
 
-*The rule of law is a technology problem waiting to be solved.*
+*Building the future with policy and code.*
 
 📍 Silicon Valley · New York City · Washington, D.C.
 
@@ -90,7 +90,7 @@
 | | Title | Publication |
 |---|---|---|
 | 📰 | *Staff editor covering campus culture, love & community* | [Columbia Sundial](https://www.sundial-cu.org/) |
-| 📝 | *Personal Blog* | [Substack](https://substack.com/@ezc18) |
+| 📝 | *Musings about life and the world* | [Substack](https://substack.com/@ezc18) |
 
 ---
 
