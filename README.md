@@ -36,7 +36,7 @@
 ---
 ## 🧠 Currently Exploring
 
-AI governance & policy · agentic AI systems · RAG pipelines · legal tech & regulation · constitutional law · civic tech · mobile app design
+AI governance · agentic web · tech & innovation policy · legal/gov/civic tech · constitutional & antitrust law · cybersecurity & quantum cryptography · predictive intelligence (LPMs) · national competitiveness
 
 ---
 
@@ -44,9 +44,9 @@ AI governance & policy · agentic AI systems · RAG pipelines · legal tech & re
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Polity AI** | Civic intelligence platform making policy accessible to everyone | Next.js, Supabase, OpenAI | [→ polity.ai](https://polity.ai) |
-| **Personal Portfolio** | Full-stack portfolio with project showcase & experience timeline | React, Vercel, CSS3 | [→ Live site](https://emeric-chang-personal-website.vercel.app) |
-| **NANDAShapers** | Cross-border youth AI governance initiative (MIT Project NANDA) | — | [→ Learn more](https://github.com/ITS-EZC) |
+| **Polity AI** | Civic intelligence platform making policy accessible to everyone | TypeScript, Next.js, React, PostGreSQL, Redis, RAG | [→ polity-ai.com](https://www.polity-ai.com) |
+| **Docket** | Full-stack Federal Agency Rule Making Tracker | React, TypeScript, CSS3, NoSQL, Anthropic API | https://github.com/ITS-EZC/Docket |
+| **Tessera** | Multi-Agent Public Benefits Navigator | Python, Next.js/TypeScript, SQL, FastAPI, LangGraph, LLamaIndex | https://github.com/ITS-EZC/Tessera |
 
 ---
 
