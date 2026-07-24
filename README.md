@@ -114,11 +114,11 @@ AI governance · agentic web · tech & innovation policy · legal/gov/civic tech
 
 ---
 
-## 🏹 Beyond the code
+## 🌟 Beyond the code
 
-Nationally-ranked recurve archer · Paris Olympic Trials competitor · USA Archery coach certified
+🏹 Nationally-ranked recurve archer · 🥇 Paris Olympic Trials competitor · 🎓 USA Archery coach certified
 
-Also into: literature & philosophy · vaporwave & cyberpunk aesthetics · 4D chess · ping-pong · stargazing on night walks · anime & manga
+Also into: 📚 literature & philosophy · 🌆 vaporwave & cyberpunk aesthetics · ♟️ 4D chess · 🏓 ping-pong · 🌌 stargazing on night walks · 🎌 anime & manga
 
 ---
 
