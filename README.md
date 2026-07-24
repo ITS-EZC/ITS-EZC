@@ -34,7 +34,12 @@
 🚀 **Co-Founder/CTO of Polity AI** — Building civic intelligence for the public
 
 ---
-<!--
+## 🧠 Currently Exploring
+
+AI governance & policy · agentic AI systems · RAG pipelines · legal tech & regulation · constitutional law · civic tech · mobile app design
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack | Link |
@@ -43,7 +48,7 @@
 | **Personal Portfolio** | Full-stack portfolio with project showcase & experience timeline | React, Vercel, CSS3 | [→ Live site](https://emeric-chang-personal-website.vercel.app) |
 | **NANDAShapers** | Cross-border youth AI governance initiative (MIT Project NANDA) | — | [→ Learn more](https://github.com/ITS-EZC) |
 
---->
+---
 
 ## 🛠️ Tech stack
 
@@ -75,6 +80,17 @@
 ---
 
 ## 📊 GitHub Stats
+
+---
+
+## 🗺️ Commit Map
+
+<div align="center">
+
+![ITS-EZC's commit map](https://raw.githubusercontent.com/ITS-EZC/ITS-EZC/main/github-metrics.svg)
+
+</div>
+
 
 <!-- Contribution Snake -->
 <div align="center">
