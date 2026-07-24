@@ -79,10 +79,6 @@ AI governance & policy · agentic AI systems · RAG pipelines · legal tech & re
 
 ---
 
-## 📊 GitHub Stats
-
----
-
 ## 🗺️ Commit Map
 
 <div align="center">
