@@ -29,7 +29,7 @@
 
 🌐 **Co-director** of NANDAShapers (MIT Project NANDA, OpenGrowth Ventures, Foundation for Agentic Networks) — youth activism on AI governance across borders
 
-✍️ Staff editor @ **Columbia Sundial** — covering campus culture (love, education, community)
+✍️ Editor @ **Columbia Sundial & Undergraduate Law Review** — covering campus culture (love, education, community) and law
 
 🚀 **Co-Founder/CTO of Polity AI** — Building civic intelligence for the public
 
