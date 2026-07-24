@@ -23,13 +23,13 @@
 
 ## ⚡ What I'm up to
 
-🏛️ **Intern @ USAO for DC** — learning the in's and out's of federal practice
+🏛️ **Intern @ USAO-DC** — learning the in's and out's of federal prosecution
 
-💡 **Director of Tech** @ Columbia Policy Institute — leading tech-policy research initiatives on campus
+💡 **Director of Tech @ Columbia Policy Institute** — leading tech-policy research initiatives on campus
 
-🌐 **Co-director** of NANDAShapers (MIT Project NANDA, OpenGrowth Ventures, Foundation for Agentic Networks) — youth activism on AI governance across borders
+🌐 **Co-director of NANDAShapers (MIT Project NANDA, OpenGrowth Ventures, Foundation for Agentic Networks)** — youth activism on AI governance across borders
 
-✍️ Editor @ **Columbia Sundial & Undergraduate Law Review** — covering campus culture (love, education, community) and law
+✍️ **Editor @ Columbia Sundial & Undergraduate Law Review** — covering campus culture (love, education, community) and law
 
 🚀 **Co-Founder/CTO of Polity AI** — Building civic intelligence for the public
 
@@ -109,7 +109,7 @@ AI governance · agentic web · tech & innovation policy · legal/gov/civic tech
 | | Title | Publication |
 |---|---|---|
 | 📰 | *Staff editor covering campus culture, love & community* | [Columbia Sundial](https://www.sundial-cu.org/) |
-| ⚖️ | *Editor covering law, policy & campus legal affairs* | [CULR](https://www.culawreview.org/) |
+| ⚖️ | *Editor covering * | [CULR](https://www.culawreview.org/) |
 | 📝 | *Musings about life and the world* | [Substack](https://substack.com/@ezc18) |
 
 ---
@@ -118,15 +118,13 @@ AI governance · agentic web · tech & innovation policy · legal/gov/civic tech
 
 Nationally-ranked recurve archer · Paris Olympic Trials competitor · USA Archery coach certified
 
-Also into: literature & philosophy · vaporwave & cyberpunk aesthetics · 4D chess · ping-pong
-
-Building at the intersection of technology and the rule of law.
+Also into: literature & philosophy · vaporwave & cyberpunk aesthetics · 4D chess · ping-pong · stargazing on night walks · anime & manga
 
 ---
 
 <div align="center">
 
-**Open to collabs, internships, or just a good conversation.**
+**Open to collabs, connections, or just a good conversation.**
 Feel free to reach out — [ezc2107@columbia.edu](mailto:ezc2107@columbia.edu)
 
 </div>
