@@ -36,7 +36,7 @@
 ---
 ## 🧠 Currently Exploring
 
-AI governance · agentic web · tech & innovation policy · legal/gov/civic tech · constitutional & antitrust law · cybersecurity & quantum cryptography · predictive intelligence (LPMs) · national competitiveness
+AI governance · agentic web · tech & innovation policy · legal/gov/civic tech · constitutional & antitrust law · cybersecurity & post-quantum cryptography · predictive intelligence (LPMs) · national competitiveness
 
 ---
 
