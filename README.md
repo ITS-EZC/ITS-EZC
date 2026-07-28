@@ -109,7 +109,7 @@ AI governance · agentic web · tech & innovation policy · legal/gov/civic tech
 | | Title | Publication |
 |---|---|---|
 | 📰 | *Staff editor covering campus culture, love & community* | [Columbia Sundial](https://www.sundial-cu.org/) |
-| ⚖️ | *Editor covering * | [CULR](https://www.culawreview.org/) |
+| ⚖️ | *Print editor architecting the undergraduate legal journal* | [CULR](https://www.culawreview.org/) |
 | 📝 | *Musings about life and the world* | [Substack](https://substack.com/@ezc18) |
 
 ---
