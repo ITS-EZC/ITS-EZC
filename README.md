@@ -44,7 +44,7 @@ AI governance & alignment· agentic web · tech & innovation policy · legal/gov
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Polity AI** | Civic intelligence platform making policy accessible to everyone | TypeScript, Next.js, React, PostGreSQL, Redis, RAG | [polity-ai.com](https://www.polity-ai.com) |
+| **PolityAI** | Civic intelligence platform making policy accessible to everyone | TypeScript, Next.js, React, PostGreSQL, Redis, RAG | [polity-ai.com](https://www.polity-ai.com) |
 | **Docket** | Federal Agency Rule Making Tracker | React, TypeScript, CSS3, NoSQL, Anthropic API | https://github.com/ITS-EZC/Docket |
 | **Tessera** | Multi-Agent Public Benefits Navigator | Python, Next.js/TypeScript, SQL, FastAPI, LangGraph, LLamaIndex | https://github.com/ITS-EZC/Tessera |
 | **Statecraft** | Idea->Policy->Implementation Platform  — 🏆 Winning FAI Hackathon project | TypeScript, Next.js, React, PostgreSQL, Drizzle ORM | https://github.com/nb-qbits/policytoaction |
