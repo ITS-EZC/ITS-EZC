@@ -82,7 +82,7 @@ AI governance & alignment· agentic web · tech & innovation policy · legal/gov
 
 **Currently learning**
 ![Mobile App Design](https://img.shields.io/badge/Mobile_App_Design-7F77DD?style=flat-square&logo=figma&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-7F77DD?style=flat-square&logo=openai&logoColor=white)
+![Blender](https://img.shields.io/badge/RAG_Pipelines-7F77DD?style=flat-square&logo=openai&logoColor=white)
 ![Federal Practice](https://img.shields.io/badge/Federal_Practice-7F77DD?style=flat-square)
 
 ---
