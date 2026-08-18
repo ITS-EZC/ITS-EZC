@@ -23,7 +23,7 @@
 
 ## ⚡ What I'm up to
 
-🏛️ **Intern @ USAO-DC** — learning the in's and out's of federal prosecution
+🏛️ **Legal Intern @ USAO-DC** — learning the in's and out's of federal prosecution
 
 💡 **Director of Tech @ Columbia Policy Institute** — leading tech-policy research initiatives on campus
 
