@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-7F77DD?style=flat-square&logo=firefox)](https://emeric-chang-personal-website.vercel.app/#experience)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/emericzchang/)
 [![Sundial](https://img.shields.io/badge/Columbia-Sundial-D85A30?style=flat-square)](https://substack.com/@emericchang)
-[![Email](https://img.shields.io/badge/Email-ezc2107%40columbia.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ezc2107@columbia.edu)
+[![Email](https://img.shields.io/badge/Email-emeric.c%40columbia.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emeric.c@columbia.edu)
 
 </div>
 
