@@ -33,6 +33,8 @@
 
 🚀 **Co-Founder/CTO of Polity AI** — Building civic intelligence for the public
 
+📊 **Tech Policy Intern @ Manhattan Institute** — researching tech policy issues and their impact on innovation and governance
+
 ---
 ## 🧠 Currently Exploring
 
