@@ -21,9 +21,7 @@
 
 ---
 
-## ⚡ What I'm up to
-
-🏛️ **Legal Intern @ USAO-DC** — learning the in's and out's of federal prosecution
+## ⚡ What I'm currently up to
 
 💡 **Director of Tech @ Columbia Policy Institute** — leading tech-policy research initiatives on campus
 
