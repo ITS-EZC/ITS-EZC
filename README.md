@@ -118,7 +118,7 @@ AI governance & alignment· agentic web · tech & innovation policy · legal/gov
 
 🏹 Nationally-ranked recurve archer · 🥇 Paris Olympic Trials competitor · 🎓 USA Archery coach certified
 
-Also into: 📚 literature & philosophy · 🌆 vaporwave & cyberpunk aesthetics · ♟️ 4D chess · 🏓 ping-pong · 🌌 stargazing on night walks · 🎌 anime & manga
+Also into: 📚 literature & philosophy · 🌆 vaporwave & cyberpunk aesthetics · ♟️ 4D chess / minesweeper · 🏓 ping-pong · 🌌 stargazing on night walks · 🎌 anime & manga
 
 ---
 
