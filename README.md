@@ -23,6 +23,8 @@
 
 ## ⚡ What I'm currently up to
 
+📊 **Tech Policy Intern @ Manhattan Institute** — researching tech policy issues and their impact on innovation and governance
+
 💡 **Director of Tech @ Columbia Policy Institute** — leading tech-policy research initiatives on campus
 
 🌐 **Co-director of NANDAShapers (MIT Project NANDA, OpenGrowth Ventures, Foundation for Agentic Networks)** — global youth chapter shaping the Internet of AI Agents
@@ -30,8 +32,6 @@
 ✍️ **Editor @ Columbia Sundial & Undergraduate Law Review** — covering campus culture (love, education, community) and law
 
 🚀 **Co-Founder/CTO of Polity AI** — Building civic intelligence for the public
-
-📊 **Tech Policy Intern @ Manhattan Institute** — researching tech policy issues and their impact on innovation and governance
 
 ---
 ## 🧠 Currently Exploring
