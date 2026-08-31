@@ -29,9 +29,9 @@
 
 🌐 **Co-director of NANDA Shapers (MIT Project NANDA, OpenGrowth Ventures, Foundation for Agentic Networks)** — global youth chapter shaping the Internet of AI Agents
 
-✍️ **Editor @ Columbia Sundial & Undergraduate Law Review** — covering campus culture (love, education, community) and law
+🚀 **Co-Founder/CTO of PolityAI** — Building civic intelligence for the public
 
-🚀 **Co-Founder/CTO of Polity AI** — Building civic intelligence for the public
+✍️ **Editor @ Columbia Sundial & Undergraduate Law Review** — covering campus culture (love, education, community) and law
 
 ---
 ## 🧠 Currently Exploring
