@@ -125,6 +125,6 @@ Also into: 📚 literature & philosophy · 🌆 vaporwave & cyberpunk aesthetics
 <div align="center">
 
 **Open to collabs, connections, or just a good conversation.**
-Feel free to reach out — [ezc2107@columbia.edu](mailto:ezc2107@columbia.edu)
+Reach out here — [ezc2107@columbia.edu](mailto:ezc2107@columbia.edu)
 
 </div>
