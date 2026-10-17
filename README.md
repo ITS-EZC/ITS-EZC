@@ -27,7 +27,7 @@
 
 💡 **Director of Tech @ Columbia Policy Institute** — leading tech-policy research initiatives on campus
 
-🌐 **Co-director of NANDA Shapers (MIT Project NANDA, OpenGrowth Ventures, Foundation for Agentic Networks)** — global youth chapter shaping the Internet of AI Agents
+🌐 **Co-director of NANDA Shapers (MIT Project NANDA, OpenGrowth Ventures, Foundation for Agentic Networks)** — global youth community shaping the Internet of AI Agents
 
 🚀 **Co-Founder/CTO of PolityAI** — Building civic intelligence for the public
 
