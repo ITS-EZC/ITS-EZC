@@ -45,7 +45,7 @@ AI governance & alignment· agentic web · tech & innovation policy · legal/gov
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | **PolityAI** | Civic intelligence platform making government accessible to everyone | TypeScript, Next.js, React, PostGreSQL, Redis, RAG | [polity-ai.com](https://www.polity-ai.com) |
-| **Docket** | Federal Agency Rule Making Tracker | React, TypeScript, CSS3, NoSQL, Anthropic API | https://github.com/ITS-EZC/Docket |
+| **Ratio** | Offline AI Fair-Trial Review Tool for Human Rights Lawyers  — 🥈 2nd Place, Columbia Human Rights Institute x FairTrial Hackathon project | Python, React, Streamlit, SQLite, Ollama, OpenSearch | https://github.com/sahilkharel7/Ratio-Fair-Trial-Hackathon |
 | **Tessera** | Multi-Agent Public Benefits Navigator | Python, Next.js/TypeScript, SQL, FastAPI, LangGraph, LLamaIndex | https://github.com/ITS-EZC/Tessera |
 | **Statecraft** | Idea->Policy->Implementation Platform  — 🏆 Winning FAI Hackathon project | TypeScript, Next.js, React, PostgreSQL, Drizzle ORM | https://github.com/nb-qbits/policytoaction |
 
